@@ -60,6 +60,7 @@ Arguments:
   `"projectile_change_owner_radius": Projectile was changed in this radius`
 
 
-# Other change:
+
+### Other change:
 
 Fix some minor bugs for blackhole
